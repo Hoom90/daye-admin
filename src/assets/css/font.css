@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "IRANSans";
+    src: url("@/assets/fonts/IRANSansWeb.eot"),url("@/assets/fonts/IRANSansWeb.ttf"),url("@/assets/fonts/IRANSansWeb.woff"),url("@/assets/fonts/IRANSansWeb.woff2");
+}
+@font-face {
+    font-family: "IRANSans-black";
+    src: url("@/assets/fonts/IRANSansWeb_Black.eot"),url("@/assets/fonts/IRANSansWeb_Black.ttf"),url("@/assets/fonts/IRANSansWeb_Black.woff"),url("@/assets/fonts/IRANSansWeb_Black.woff2");
+}
+body, div{
+    font-family: "IRANSans";
+    font-size: 13px;
+}
+.p.swiper-slide-title, .v-toolbar-title strong, .title-website{
+    font-family: "IRANSans-black";
+}
